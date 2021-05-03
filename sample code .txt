@@ -1,0 +1,6 @@
+#!/bin/bash 
+# sample code 
+echo "First Name:"
+read a
+# a is a variable to give name
+echo "hello,$a"

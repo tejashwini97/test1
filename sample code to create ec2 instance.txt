@@ -1,0 +1,7 @@
+#!/bin/bash 
+# create a ec2 instance
+instance = "ec2. create_instance" 
+imageid = "ami-00abcdhoftdj"
+instance type = "t2.micro" 
+keypair = "ec2-keypair" 
+status = "running"
